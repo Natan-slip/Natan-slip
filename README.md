@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="natasatorodrigues@hotmail.com">
+  <a href="natasatorodrigues@hotmail.com" "blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/natan.sato" "blank">
