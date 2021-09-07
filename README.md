@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 
 </div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcintra)](https://github.com/juniorcintra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorcintra&show_icons=true&theme=radical)
+
+
+ ![Snake animation](https://github.com/juniorcintra/juniorcintra/blob/output/github-contribution-grid-snake.svg)
  
   ##
 <div>
