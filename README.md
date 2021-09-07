@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there, me chamo Natã 👋 
 
 **Natan-slip/Natan-slip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Prazer, me chamo Natã
 <div>
   <a href="https://github.com/Natan-slip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natan-slip&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
