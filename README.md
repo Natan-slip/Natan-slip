@@ -1,4 +1,4 @@
-### Hi there, me chamo Natã 👋 
+## Hi there, me chamo Natã 👋 
 
 <div>
   <a href="https://github.com/Natan-slip">
