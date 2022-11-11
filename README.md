@@ -1,7 +1,6 @@
-## Hi there, me chamo Natã 👋 
+## Hi there, me chamo Natã 😄
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Bem+vindo+ao+meu+GitHub;Sente%2C+Relaxe+e+boa+visualiza%C3%A7%C3%A3o)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Bem+vindo+ao+meu+GitHub;Sente%2C+Relaxe+e+boa+visualiza%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Bem+vindo+ao+meu+GitHub;Sente%2C+Relaxe+e+boa+visualiza%C3%A7%C3%A3o" alt="Typing SVG" /></a> 👋
 
 <div>
   <a href="https://github.com/Natan-slip">
