@@ -12,9 +12,6 @@
   <img align="center" alt="Natan-slip-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Natan-slip-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Natan-slip-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Natan-slip-PHP" height="40" width="40" src="https://image.flaticon.com/icons/png/512/528/528261.png">
-  <img align="center" alt="Natan-slip-Android" height="30" width="40" src="https://image.flaticon.com/icons/png/512/518/518705.png">
-  <img align="center" alt="Natan-slip-MySQL" height="30" width="40" src="https://image.flaticon.com/icons/png/512/1199/1199128.png">
 
 
 </div>
